@@ -31,3 +31,12 @@ Our architecture focuses on:
 - **Modular DeFi Stack**. Designed for scalability, integrations, and next-generation financial primitives.
 
 ---
+
+## 🔗 Learn More
+
+* 🌐 **Senja Web:** [Visit our web](https://senja.finance)
+* 𝕏 **Twitter/X:** [@SenjaLabs](https://x.com/senjalabs)
+* 💬 **Discord:** [Join our Discord](https://discord.gg/ZJwQa8QEA7)
+* 📘 **Senja Docs:** [Visit our docs](https://senja.gitbook.io/senja-docs)
+
+---
